@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DisableDetector</string>
+    <string name="title_activity_image_select">ImageSelectActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="description_image_select">Select an image from your camera roll. Please select the clearest image.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_with_this_image">Continue with this image</string>
+    <string name="enter_the_address_of_the_location">Enter the address of the location</string>
+    <string name="click_here_to_use_location_instead">Click here to use location instead</string>
+    <string name="please_rate_the_condition_of_the_facility">Please rate the condition of the facility</string>
+    <string name="critical">Critical</string>
+    <string name="unusable">Unusable</string>
+    <string name="partially_usable">Partially Usable</string>
+</resources>
